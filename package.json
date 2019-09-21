@@ -1,0 +1,19 @@
+{
+  "name": "boxitong-cat",
+  "version": "1.0.0",
+  "description": "복싱 사이트",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasNam/boxiting-cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasNam/boxiting-cat/issues"
+  },
+  "homepage": "https://github.com/ThomasNam/boxiting-cat#readme"
+}
